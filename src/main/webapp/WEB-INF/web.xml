@@ -5,7 +5,7 @@
          version="4.0">
     <context-param>
         <param-name>contextConfigLocation</param-name>
-        <param-value>classpath:applicationContext.xml
+        <param-value>classpath:application*.xml
             classpath:spring*.xml
         </param-value>
     </context-param>
